@@ -4,7 +4,7 @@
 #include <iostream>
 #include <algorithm>
 using namespace std;
-									//Getting Array Size & Items From User And Reversing Them As a Output//
+			//Getting Array Size & Items From User And Reversing Them As a Output//
 int main(){
 	int size;
 	cin >> size;
